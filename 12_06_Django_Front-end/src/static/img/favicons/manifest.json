@@ -1,0 +1,15 @@
+{
+    "name": "Bootstrap",
+    "short_name": "Bootstrap",
+    "icons": [
+      {
+        "src": "2_65.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/list_genre.html",
+    "theme_color": "#563d7c",
+    "background_color": "#563d7c",
+    "display": "standalone"
+  }
